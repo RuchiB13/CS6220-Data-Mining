@@ -1,8 +1,8 @@
 # CS6220-Data-Mining
-Name : Ruchi Bhavsar
-Class : CS6220 - Data Mining
-Instructor : Sara Arunagiri
-Assignments :
+Name : Ruchi Bhavsar <br />
+Class : CS6220 - Data Mining <br />
+Instructor : Sara Arunagiri <br />
+<br /> Assignments : <br />
 1. Exploring the MovieLens Dataset
 2. Exploring Data with Pandas
 3. Face Recognition using PCA
@@ -12,7 +12,7 @@ Assignments :
 7. Team Project Proposal
 8. Decision Tree
 9. Model Evaluation
-10. Draft of Final Project
+10. Draft of Final Project <br />
 
 Project : NBA “Moneyball”: An Analytical Approach to Cost-Effective Team Formation Using Hierarchical Clustering and Regression
 
